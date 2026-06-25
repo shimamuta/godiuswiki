@@ -2,7 +2,7 @@
 
 ようこそ！
 
-このWikiは、GODIUS Eternal War の日本語攻略情報をまとめるしまむた的非公式Wikiです。
+このWikiは、GODIUS Eternal War の日本語攻略情報をまとめる為のしまむた的非公式Wikiです。
 
 ## コンテンツ
 
